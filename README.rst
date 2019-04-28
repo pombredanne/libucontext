@@ -25,7 +25,7 @@ Introduction
 ============
 
 This distribution contains the implementation of **libucontext**, a library
-which provides the ``<ucontext.h>``_ API from older POSIX revisions.  Unlike
+which provides the `\<ucontext.h>`_ API from older POSIX revisions.  Unlike
 other implementations, it faithfully follows the kernel process ABI when
 performing context swaps.
 
@@ -33,7 +33,7 @@ When combined with `gcompat`_, it provides a full implementation of the
 *<ucontext.h>* functions that are ABI compatible with glibc.
 
 
-.. _``<ucontext.h>``: https://pubs.opengroup.org/onlinepubs/7908799/xsh/ucontext.h.html
+.. _`\<ucontext.h>`: https://pubs.opengroup.org/onlinepubs/7908799/xsh/ucontext.h.html
 .. _`gcompat`: https://code.foxkit.us/adelie/gcompat/
 
 
