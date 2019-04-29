@@ -1,0 +1,4 @@
+#!/bin/sh
+
+NEWROOT=/srv/adelie/$ARCH
+CLONE_DIR=${CLONE_DIR:-$(pwd)}
