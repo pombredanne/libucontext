@@ -120,10 +120,11 @@ libucontext uses a Makefile-based build system.  The build system will attempt
 to determine your current architecture using `uname -m`; you may override this
 by setting the ``ARCH`` variable.
 
+::
 
-    $ make ARCH=ppc64
-    $ make ARCH=ppc64 check
-    $ make ARCH=ppc64 DESTDIR=$HOME/prefix install
+  $ make ARCH=ppc64
+  $ make ARCH=ppc64 check
+  $ make ARCH=ppc64 DESTDIR=$HOME/prefix install
 
 
 
