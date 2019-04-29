@@ -14,11 +14,21 @@
 .. image:: https://img.shields.io/badge/chat-on%20IRC-blue.svg
    :target: ircs://irc.interlinked.me:6697/#Adelie-Support
 
+.. image:: https://img.shields.io/codacy/grade/3461d72e15e9467eba024e789347fa50.svg
+   :target: https://app.codacy.com/project/awilfox/libucontext/dashboard
+
+.. image:: https://img.shields.io/coverity/scan/18279.svg
+   :target: https://scan.coverity.com/projects/adelielinux-libucontext
+
 .. image:: https://img.shields.io/badge/license-MIT-lightgrey.svg
    :target: LICENSE
 
 .. image:: https://repology.org/badge/vertical-allrepos/libucontext.svg
    :target: https://repology.org/project/libucontext/versions
+
+.. image:: https://travis-ci.org/AdelieLinux/libucontext.svg?branch=master
+   :target: https://travis-ci.org/AdelieLinux/libucontext
+
 
 
 Introduction
