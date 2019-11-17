@@ -3,7 +3,7 @@
 ========================
 :Authors:
  * **A. Wilcox**, maintainer
- * **William Pitcock**, former maintainer, initial implementation
+ * **Ariadne Conill**, developer, initial implementation
  * **Adélie Linux and its contributors**, development
 :Status:
  Production
@@ -96,8 +96,8 @@ The following architectures are supported:
 
 * s390x
 
-  This architecture is **not supported** by the Adélie Linux system.  It is
-  *untested* by the release team and may not be functional.
+  This architecture is **not supported** by the Adélie Linux system, however,
+  it is supported by libucontext.
 
 The following architectures utilise a Linux kernel syscall:
 
